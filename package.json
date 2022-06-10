@@ -1,0 +1,19 @@
+{
+  "name": "turin",
+  "version": "1.0.0",
+  "description": "Trainning of two gumelos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyssparda/turin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennyssparda/turin/issues"
+  },
+  "homepage": "https://github.com/kennyssparda/turin#readme"
+}
